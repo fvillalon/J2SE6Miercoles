@@ -1,0 +1,13 @@
+Encapsulamiento
+Constructores
+
+Casteo implícito (widening asting)
+ Upcasting
+ Polimorfismo
+ Definición
+Al final de este módulo serás capáz de
+ Con redefinición
+ Sin redefinición
+ Clase abstracta
+ Definición
+

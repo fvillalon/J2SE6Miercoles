@@ -1,0 +1,1 @@
+java -jar target\JavaLM-1.jar

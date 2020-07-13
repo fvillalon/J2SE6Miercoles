@@ -1,0 +1,28 @@
+------------------------------------------------------------------
+Tarea clase 3
+------------------------------------------------------------------
+
+Tarea para el Lunes
+
+Investigar el formato XML
+
+Instalar netBeans
+
+Con la clase conexionn, quiero que creen un array de tipo Conexion
+Conexion[] arrConexion = new Conexion[] { new Conexion(), new Conexion(), new Conexion() };
+
+var la analogía con int[] arrenteros = new int[] {2,3,4,5,6};
+
+Luego recorrer con un foreach el arrConexion y llamar al metodo conectar.
+
+Investigar que es el encapsulamiento, para que sirve.
+
+Que es una interfaz (la palabra reservada interface)
+Como se escribe una interfaz para que sirve.
+
+Si se puede, traer un ejemplo de interface funcionando.
+
+------------------------------------------------------------------
+Tarea clase 4
+------------------------------------------------------------------
+
