@@ -26,3 +26,33 @@ Si se puede, traer un ejemplo de interface funcionando.
 Tarea clase 4
 ------------------------------------------------------------------
 
+Ejercicio:
+
+Crear un array con valores: 10, -1, 3, 5, -5, 2, 7, -8
+Recorrer el array.
+van a acumular los valores positivos en una variable
+van a acumular los valores negativos en otra variable
+Luego de recorrer el array muestran el total acumulado
+para los positivos, y los negativos.
+
+------------------------------------------------------------------
+
+Piedra, Papel, Tijera.
+Logica del juego.
+Test unitarios, aprovechar que estamos haciendo logica
+para desarrollar los 9 test, y ver como testear los empates.
+
+------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
