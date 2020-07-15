@@ -1,56 +1,37 @@
 ------------------------------------------------------------------
-Tarea clase 3
+Tarea para clase 5
 ------------------------------------------------------------------
 
-Tarea para el Lunes
+Investigar que diferencia tienen los tipos basicos de java 
+con sus wrappers
 
-Investigar el formato XML
+Ejemplo 
 
-Instalar netBeans
-
-Con la clase conexionn, quiero que creen un array de tipo Conexion
-Conexion[] arrConexion = new Conexion[] { new Conexion(), new Conexion(), new Conexion() };
-
-var la analogía con int[] arrenteros = new int[] {2,3,4,5,6};
-
-Luego recorrer con un foreach el arrConexion y llamar al metodo conectar.
-
-Investigar que es el encapsulamiento, para que sirve.
-
-Que es una interfaz (la palabra reservada interface)
-Como se escribe una interfaz para que sirve.
-
-Si se puede, traer un ejemplo de interface funcionando.
+int Integer
+boolean Boolean
+long Long
+float Float
 
 ------------------------------------------------------------------
-Tarea clase 4
+Investigar como es que puedo tener un metodo con el mismo nombre y
+difrentes argumentos.
+
+Como es que puedo tener un constructor con mismo nombre y 
+diferentes argumentos.
+
+Porque ? paraque ?
 ------------------------------------------------------------------
+Investigar que es static y que lo diferencia de no-static (no poner nada).
 
-Ejercicio:
-
-Crear un array con valores: 10, -1, 3, 5, -5, 2, 7, -8
-Recorrer el array.
-van a acumular los valores positivos en una variable
-van a acumular los valores negativos en otra variable
-Luego de recorrer el array muestran el total acumulado
-para los positivos, y los negativos.
-
+Para Andy.
+Anotacion para mi, ver como implementar varias interfaces.
 ------------------------------------------------------------------
+Investigar objetivo de los test unitarios y como se hacen
+desde la optica de la teoria.
 
-Piedra, Papel, Tijera.
-Logica del juego.
-Test unitarios, aprovechar que estamos haciendo logica
-para desarrollar los 9 test, y ver como testear los empates.
-
+Regla de las tres A.
 ------------------------------------------------------------------
-
-
-
-
-
-
-
-
+Investigar que es el this.
 
 
 
