@@ -1,39 +1,6 @@
 ------------------------------------------------------------------
-Tarea para clase 5
+Tarea para clase 6
 ------------------------------------------------------------------
 
-Investigar que diferencia tienen los tipos basicos de java 
-con sus wrappers
-
-Ejemplo 
-
-int Integer
-boolean Boolean
-long Long
-float Float
-
-------------------------------------------------------------------
-Investigar como es que puedo tener un metodo con el mismo nombre y
-difrentes argumentos.
-
-Como es que puedo tener un constructor con mismo nombre y 
-diferentes argumentos.
-
-Porque ? paraque ?
-------------------------------------------------------------------
-Investigar que es static y que lo diferencia de no-static (no poner nada).
-
-Para Andy.
-Anotacion para mi, ver como implementar varias interfaces.
-------------------------------------------------------------------
-Investigar objetivo de los test unitarios y como se hacen
-desde la optica de la teoria.
-
-Regla de las tres A.
-------------------------------------------------------------------
-Investigar que es el this.
-
-
-
-
+Hacer todos los casos de uso para Piedra Papel Tijera.
 
