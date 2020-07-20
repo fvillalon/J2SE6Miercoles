@@ -17,7 +17,7 @@ public class Init {
         juego.jugar();
         */
         
-        
+        /*
         
         A a1 = new A();
         a1.variable1 = 1000;
@@ -26,5 +26,8 @@ public class Init {
         
         System.out.println(a1.variable1);
         System.out.println(a2.variable1);
+        */
+        
+        new edu.educacionit.manejoerrores.Init(2).intentarOperacion();
     }
 }

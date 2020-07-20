@@ -4,3 +4,4 @@ Tarea para clase 6
 
 Hacer todos los casos de uso para Piedra Papel Tijera.
 
+Repasar el problema de manejo errores
