@@ -1,15 +1,14 @@
 package edu.educacionit;
 
 public class Juego {
-    Jugador primero;
-    Jugador segundo;
-
-    public Juego(Jugador primero, Jugador segundo) {
-        this.primero = primero;
-        this.segundo = segundo;
+    
+    private Apostador[] apostadores;
+    
+    public Juego(Apostador[] apostadores) {
+        this.apostadores = apostadores;
     }
     
-    public void jugar() {
+    public void jugar(Jugador primero, Jugador segundo) {
         int j1 = primero.obtenerJugada();
         int j2 = segundo.obtenerJugada();
         
