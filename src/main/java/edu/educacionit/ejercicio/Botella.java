@@ -7,7 +7,8 @@ public class Botella {
         if(ml < 300){
             throw new RuntimeException("NO ALCANZA LA CANTIDAD PARA SERVIR");
         }
-        System.out.println("Servir ml :"+ ml);
         ml -= 300;
+        System.out.println("Sirviendo vino quedan "+ ml +" ml");
+        // Muestra el mensaje despues de hacer el descuento, asi queda mas claro para el usuario final
     }
 }
