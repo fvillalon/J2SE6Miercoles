@@ -10,6 +10,5 @@ public class EjemploPila {
             System.out.println("Ocurrio un error");
             System.out.println(ex.getMessage());
         }
-        new ErrorEnPila().mostrarHola();
     }
 }

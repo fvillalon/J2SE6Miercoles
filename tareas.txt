@@ -1,7 +1,29 @@
 ------------------------------------------------------------------
-Tarea para clase 6
+Tarea para clase 7
 ------------------------------------------------------------------
 
-Hacer todos los casos de uso para Piedra Papel Tijera.
+Base de datos SQL.
 
-Repasar el problema de manejo errores
+Repasar SELECT, INSERT, UPDATE, DELETE (la sintaxis)
+
+1) Que es una transacción (Investigar)
+
+Bajar el xamp, (appserrv), instalarlo. 
+https://sourceforge.net/projects/xampp/
+
+Vamos a trabajar con MySQL, con algun cliente de MySQL.
+
+2) Que es jdbc ?
+3) Que es un string de conexion ?
+
+Por favor, enviar x mail.
+
+--------------------------------------------------------------------
+Nota para mi.
+
+Queda ver de la clase de hoy.
+
+Extender las Exceptions como para manejar varios tipos de errores
+ver el finally.
+
+

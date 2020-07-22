@@ -46,8 +46,25 @@ en este caso z va en la parte de variables globales.
 A.z = 2; // Desde cualquier lugar donde pueda, estoy modificando
 una variable global.
 
+--------------------------------------------------------------------
+Famila de Exceptions
+--------------------------------------------------------------------
 
+Checked Exceptions (Exception)             RuntimeExceptions
 
+Estoy obligado a declarar                  NO estoy obligado
+que un metodo es plausible
+de arrojar una exception
 
+Ejemplos
 
+ConexionBaseDatos                          Me caigo del array
+                                           IndexOutOfBoundsException
 
+Manejo de archivos
+Web service
+                                           Division por zero
+                                           Stack overflow
+                                           nullPointerException
+                                           A a;
+                                           a.calcular(); // nullPointerException

@@ -1,5 +1,7 @@
 package edu.educacionit;
 
+import edu.educacionit.ejercicio.Ejercicio;
+import edu.educacionit.ejercicio.EjercicioFelipe;
 import edu.educacionit.pila.EjemploPila;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -11,5 +13,6 @@ class A {
 public class Init {
     public static void main(String[] args) {
         new EjemploPila().ejemploManejoErrores();
+        // EjercicioFelipe.main(args);
     }
 }
