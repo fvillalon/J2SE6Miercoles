@@ -1,0 +1,53 @@
+Manejo de memoria en java
+
+La memoria tiene tres instancias.
+
+                                                     GLOBAL
+
+PILA - STACK
+
+                                            AREA DEL GARBAGE COLLECTOR
+
+
+class A {
+   public int a;
+}
+
+Que se public significa que esa variable 'a' tiene visibilidad en todo
+aquel que tenga visibilidad a la clase A.
+Pero NO significa que esta en un area particular de la memoria.
+
+Cuando yo instancio un objeto por ejemplo.
+A a = new A();
+tengo a es una variable del tipo a. 
+cada vez que hago new se reserva en el area del garbage collector
+un espacio para almacenar 4 bytes de la variable a;
+
+tengo un metodo 
+
+public void m1() {
+   int z = 0;
+}
+
+Cada vez que tengo una variable de cualquier tipo dentro de un metodo
+-en el scope del metodo-, se guarda en la pila.
+
+Ahora bien.
+
+Los literales "HOLA", "CHAU", 2, 100, 3.4. Van en el area de globales.
+Las variables de tipo static van en el area de globales.
+
+class A {
+   public static int z;
+}
+
+en este caso z va en la parte de variables globales.
+
+A.z = 2; // Desde cualquier lugar donde pueda, estoy modificando
+una variable global.
+
+
+
+
+
+

@@ -1,0 +1,27 @@
+Tener un metodo main
+
+public static void main(String... args) {
+   try {
+       Botella b = new Botella();
+       try {
+           b.servir();
+           b.servir();
+           b.servir();
+           b.servir();
+       }
+       catch (Exception ex) {
+          System.out.println("Se acabo el vino");
+       }
+   }   
+}
+
+una clase Botella {}
+
+Dentro de la clase Botella un metodo servir
+
+Dentro de la clase Botella una variable int ml = 1000;
+
+Cada vez que se llama a servir se descuentan 300ml;
+
+Cuando se llame a servir y la cantidad de ml sea < 300 se debe arrojar
+un RuntimeException que diga "NO ALCANZA LA CANTIDAD PARA SERVIR".
